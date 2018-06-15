@@ -3,7 +3,8 @@
   - home
   - customization
 
-- title: Examples
+- title: Common Tasks
   docs:
-  - cheatsheet
-  - bootstrap
+  - Geocoding an Excel Table
+  - Creating a WebMap in ArcGIS Online
+  - Creating a WebApp in ArcGIS Online
