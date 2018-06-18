@@ -1,10 +1,10 @@
-- title: Getting Started
+- title: Data Documentation
   docs:
-  - home
-  - customization
+  - orgstructure
+  - datainfo
 
 - title: Common Tasks
   docs:
-  - Geocoding an Excel Table
-  - Creating a WebMap in ArcGIS Online
-  - Creating a WebApp in ArcGIS Online
+  - geocoding
+  - webmapcreate
+  - webappcreate
