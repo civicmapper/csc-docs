@@ -4,9 +4,8 @@ layout: default
 
 <div class="header-container jumbotron">
     <div class="container">
-        <h1>Jekyll Template for Project Websites</h1>
-        <p>Simple and modern design for publishing blog posts, documentation and many more things for your project.
-          You can now clone and start to create a website for your project like this one.</p>
+        <h1>{{site.data.frontpage.jumbotron_title}}</h1>
+        <p>{{site.data.frontpage.jumbotron_subtitle}}</p>
         <p><a class="btn btn-primary btn-lg" href="{{ "/docs/home/" | prepend: site.baseurl }}" role="button">Learn more</a></p>
     </div>
 </div>
@@ -14,7 +13,7 @@ layout: default
 
 <div class="container">
 
-    <div class="row">
+    <!-- <div class="row">
         <div class="col-md-6">
             <h2 class="header-light regular-pad">What is Jekyll?</h2>
             <blockquote>
@@ -56,7 +55,7 @@ layout: default
             <p>Leverage from Git version control system by
               maintaining your documentation along with the source code; publish the page when you merge to the master branch.</p>
         </div>
-    </div>
+    </div> -->
 
 
 </div>
