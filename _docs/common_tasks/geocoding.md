@@ -7,14 +7,14 @@ permalink: /docs/geocoding/
 
 To geocode locations in an excel table, it is necessary to install the [ArcGIS Excel Add In](https://doc.arcgis.com/en/maps-for-office/). The user must also have a **feature class** available in their ArcGIS Online account to which the data can be linked.
 
-![Demo of Excel to Parce Layer workflow]({{site.img_folder}}ExceltoParcelLayerDemoClip1.gif)
-
 ##### Before you Start
 
 1.  First, make sure that the two fields (columns) of data you will be linking are in the *same format*. Note the name of these fields.
     * In this example a table containing parcel data will be linked to a parcel boundary feature class using the **PIN number**.
 
 2.  Next, select the **ArcGIS Maps** tab in Microsoft Excel and sign in to your ArcGIS Online account.
+
+![Demo of Excel to Parce Layer workflow]({{site.img_folder}}ExceltoParcelLayerDemoClip1.gif)
 
 ### Creating the Map
 
