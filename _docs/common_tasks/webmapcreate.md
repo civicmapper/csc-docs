@@ -2,54 +2,84 @@
 title: Creating a WebMap in ArcGIS Online
 permalink: /docs/webmapcreate/
 --- 
-There are several ways to create a WebMap using ArcGIS Online. One easy way is to use the ArcGIS Online website to open a blank map and add and symbolize data using the web interface.
+There are several ways to create a Web Map using ArcGIS Online. One easy way is to use the ArcGIS Online website to open a blank map and add and symbolize data using the web interface.
 
 #### Opening a New Map
 
-1.  Log in to the ArcGIS Online website
-2.  Navigate to the ‘Map’ window.
+-  Log in to the ArcGIS Online website
+-  Navigate to the ‘Map’ window.
+
+![Demo of Excel to Parce Layer workflow]({{site.img_folder}}NavigateToMapTab.gif)
 
 #### Adding Content
 
 ###### Adding Content from Your Account
 
-1.  Click the **Add** drop down menu and choose **Search for Layers**. 
+-  Click the **Add** drop down menu and choose **Search for Layers**. 
     *   The Search tool automatically filters the search for feature classes in your content only. 
 
-2.  Click on the little plus sign in the bottom right hand corner to add a layer to your map, or click on the feature class to view more information about it.
+![Demo of Excel to Parce Layer workflow]({{site.img_folder}}AddMyContent.gif)
 
-3. Clicking the arrow in the top left corner of the Search box will navigate back to the Table of Content.
+-  Click on the little plus sign in the bottom right hand corner to add a layer to your map, or click on the feature class to view more information about it.
+
+![Demo of Excel to Parce Layer workflow]({{site.img_folder}}AddMyContentToWebMap.gif)
+
+- Clicking the arrow in the top left corner of the Search box will navigate back to the Table of Content.
 
 ###### Adding Content from Other Sources
 
-1.  Click the **Add** drop down menu and choose **Search for Layers**. 
+-  Click the **Add** drop down menu and choose **Search for Layers**. 
 
-2.  Remove or alter the **My content** filter at the top of the search box
+-  Remove or alter the **My content** filter at the top of the search box
     *   Search from a particular group, the Living Atlas, or publically available data from ArcGIS Online.
 
-3. Clicking the arrow in the top left corner of the Search box will navigate back to the Table of Content.
+![Demo of Excel to Parce Layer workflow]({{site.img_folder}}AddOtherContent.gif)
+
+- Clicking the arrow in the top left corner of the Search box will navigate back to the Table of Content.
 
 #### Symbolizing Data
 
-1.  Click on the **Change Style** tool (represented by colorful shapes) directly under the layer name.
+-  Click on the **Change Style** tool (represented by colorful shapes) directly under the layer name.
+    *   Feature Classes can be symbolized with a simple fill or by attribute.
 
-2.  Here a user can change the style of a feature class to visualize attribute data (contained in the feature class's attribute table). 
-    *   To view a layer's attribute table, 
+![Demo of Excel to Parce Layer workflow]({{site.img_folder}}SimpleSymbolization.gif)
 
-For example, if it would be useful to display parcels according to their Assessed Value Total, the user could choose value categories for which a parcel would be green, yellow, or red and symbolize accordingly.
+-  Before symbolizing a layer by attribute, it is useful to view the attribute table itself.
+    1.  navigate to the **Content** page.
+    2.  Navigate to the relevant feature class.
+    3.  Select the **Data** tab.
+    4.  Attribute table will display.
+
+![Demo of Excel to Parce Layer workflow]({{site.img_folder}}ComparingPINFields.gif)
+
+-   As an example, it could be useful to symbolize parcels by the attribute **Property Type**
+    1.  Click on the **Change Style** tool.
+    2.  Click on the **Choose an attribute to show** drop down menu and choose the appropriate attribute.
+    3.  Next Click on the word **Options** in the middle of the **Types** selection.
+    4.  Change the style options to best represent the data.
+    5.  When layer is appropriately symbolized, click **Done**.
+
+![Demo of Excel to Parce Layer workflow]({{site.img_folder}}CategoricalSymbolization.gif)
 
 #### Analyzing Data
 
 Various **Analysis** tools are used to extract meaning and draw conclusions using spatial relationships between data. The button to locate these tools is located in the top menu bar (as well as under each feature class - represented by the mini map image).
 
-Descriptions of each analysis tool as well as how-to guides from ESRI are available [here](http://doc.arcgis.com/en/arcgis-online/analyze/perform-analysis.htm)
+![Demo of Excel to Parce Layer workflow]({{site.img_folder}}AnalysisTools.gif)
+
+Descriptions of each analysis tool as well as how-to guides from ESRI are available [here](http://doc.arcgis.com/en/arcgis-online/analyze/perform-analysis.htm).
 
 #### Saving Your Map
 
-Once the data you are interested in is on the map, has been analyzed as required, and is displayed correctly, save the map to create a WebMap that can be re-accessed, edited, and shared. 
+-   Once the data you are interested in is on the map, has been analyzed as required, and is displayed correctly, save the map to create a Web Map that can be re-accessed, edited, and shared. 
 
-The WebMap will now be available in ‘Content’.
+![Demo of Excel to Parce Layer workflow]({{site.img_folder}}SaveWebMap.gif)
 
-To share your map, 
+-   The Web Map will now be available in **Content**.
 
-For more detailed information on creating a WebMap, please see [ESRI’s WebMap help pages](https://doc.arcgis.com/en/arcgis-online/get-started/get-started-with-maps.htm).
+-   To share your map click the **Share** button in the top menu bar.
+    *   Choose the Organization or Group you would like to share the content with.
+
+![Demo of Excel to Parce Layer workflow]({{site.img_folder}}ShareWebMap.gif)
+
+For more detailed information on creating a Web Map, please see [ESRI’s Web Map help pages](https://doc.arcgis.com/en/arcgis-online/get-started/get-started-with-maps.htm).

@@ -16,7 +16,7 @@ An updated parcel boundary feature class will be shared to all municipalities by
 
 ### Where
 
-To find a new parcel feature class:
+To find the newest parcel feature class:
 
 1.  Log on to ArcGIS Online.
 2.  
