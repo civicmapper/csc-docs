@@ -1,5 +1,5 @@
 ---
-title: Data Update Information
+title: Distribution of Updated Data
 permalink: /docs/datainfo/
 ---
 ### What
