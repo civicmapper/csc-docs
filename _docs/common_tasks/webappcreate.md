@@ -5,7 +5,7 @@ permalink: /docs/webappcreate/
 
 WebApps are created from WebMaps. 
 
-#### Creating a new Web App
+# Creating a new Web App
 
 -  Navigate to the WebMap containing the data you would like to use in your Web App. 
 
@@ -24,8 +24,7 @@ WebApps are created from WebMaps.
 -  Fill in the required fields. 
     *   It is good practice to include "WebApp" in the name of your new Web App to differentiate the content from the WebMap used to create it.
 
-
-#### Customizing Your Web App
+# Customizing Your Web App
 
 -   Most Web App creation will involve filling and editing fields and choosing display options so that the Web App is customized to suit the user’s needs. 
 

@@ -4,16 +4,16 @@ permalink: /docs/webmapcreate/
 --- 
 There are several ways to create a Web Map using ArcGIS Online. One easy way is to use the ArcGIS Online website to open a blank map and add and symbolize data using the web interface.
 
-#### Opening a New Map
+# Opening a New Map
 
 -  Log in to the ArcGIS Online website
 -  Navigate to the ‘Map’ window.
 
 ![Demo of Excel to Parce Layer workflow]({{site.img_folder}}NavigateToMapTab.gif)
 
-#### Adding Content
+# Adding Content
 
-###### Adding Content from Your Account
+## Adding Content from Your Account
 
 -  Click the **Add** drop down menu and choose **Search for Layers**. 
     *   The Search tool automatically filters the search for feature classes in your content only. 
@@ -26,7 +26,7 @@ There are several ways to create a Web Map using ArcGIS Online. One easy way is 
 
 - Clicking the arrow in the top left corner of the Search box will navigate back to the Table of Content.
 
-###### Adding Content from Other Sources
+## Adding Content from Other Sources
 
 -  Click the **Add** drop down menu and choose **Search for Layers**. 
 
@@ -37,7 +37,7 @@ There are several ways to create a Web Map using ArcGIS Online. One easy way is 
 
 - Clicking the arrow in the top left corner of the Search box will navigate back to the Table of Content.
 
-#### Symbolizing Data
+## Symbolizing Data
 
 -  Click on the **Change Style** tool (represented by colorful shapes) directly under the layer name.
     *   Feature Classes can be symbolized with a simple fill or by attribute.
@@ -61,7 +61,7 @@ There are several ways to create a Web Map using ArcGIS Online. One easy way is 
 
 ![Demo of Excel to Parce Layer workflow]({{site.img_folder}}CategoricalSymbolization.gif)
 
-#### Analyzing Data
+## Analyzing Data
 
 Various **Analysis** tools are used to extract meaning and draw conclusions using spatial relationships between data. The button to locate these tools is located in the top menu bar (as well as under each feature class - represented by the mini map image).
 
@@ -69,7 +69,7 @@ Various **Analysis** tools are used to extract meaning and draw conclusions usin
 
 Descriptions of each analysis tool as well as how-to guides from ESRI are available [here](http://doc.arcgis.com/en/arcgis-online/analyze/perform-analysis.htm).
 
-#### Saving Your Map
+# Saving Your Map
 
 -   Once the data you are interested in is on the map, has been analyzed as required, and is displayed correctly, save the map to create a Web Map that can be re-accessed, edited, and shared. 
 
