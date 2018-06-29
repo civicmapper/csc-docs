@@ -22,16 +22,16 @@ permalink: /docs/datainfo/
 **SPCAR (Systematic Property Condition Assessment Rating)**
 *   Property rating system specifically designed by and for QVCOG
 
-**PA One Call Ticket Mapper**
+**1LINK**
 *   PA OneCall has an e-mail based notiication system that will alert the user of "Call Before you Dig" requests in the user's area.
 *   The user must request approval from PA OneCall to get the e-mail notifications.
-*   This mapping script takes PA One Call e-mails from the subscriber's email and publishes them to a standard geodata web service so that tickets can be viewed on a web map.
+*   The 1LINK mapping script takes PA One Call e-mails from the subscriber's email and publishes them to a standard geodata web service so that tickets can be viewed on a web map.
 
 ***
 
-# How to Access New Data
+# How to Access Updated QVCOG Specific Data
 
-*   Updated data will be shared to all municipalities by the QVCOG ArcGIS Organization Administrator via the QVCOG Group.
+*   Updated QVCOG specific data will be shared to all municipalities by the QVCOG ArcGIS Organization Administrator via the QVCOG Group.
     -   See the _QVCOG ArcGIS Online Organization Structure_ page for a more detailed description of sharing.
 *   Municipalities will be notified via e-mail that a new data set is available.
 

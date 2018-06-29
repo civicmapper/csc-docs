@@ -1,9 +1,10 @@
 ---
-title: Creating a WebApp in ArcGIS Online
+title: Creating a Web App in ArcGIS Online
 permalink: /docs/webappcreate/
 ---
 
-WebApps are created from WebMaps. 
+*   Web Apps are created from Web Maps. 
+*   The purpose of a Web App is to present the data created in a Web Map in a streamlined and focused platform viewable on any device or browser.
 
 # Creating a new Web App
 
