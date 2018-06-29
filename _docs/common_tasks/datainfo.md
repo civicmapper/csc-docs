@@ -23,6 +23,9 @@ permalink: /docs/datainfo/
 *   Property rating system specifically designed by and for QVCOG
 
 **PA One Call Ticket Mapper**
+*   PA OneCall has an e-mail based notiication system that will alert the user of "Call Before you Dig" requests in the user's area.
+*   The user must request approval from PA OneCall to get the e-mail notifications.
+*   This mapping system takes PA One Call e-mails from the subscriber's email and publishes them to a standard geodata web service so that tickets can be viewed on a web map.
 
 ***
 
