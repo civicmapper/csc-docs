@@ -4,7 +4,7 @@ permalink: /docs/datainfo/
 ---
 **QVCOG Parcel Feature Class**
 *   Layer is regularly updated using the **Allegheny County Parcel Boundaries** layer available as open source data from the Allegheny County Department of Real Estate.
-*   This layer will be updated weekly using data harvested from [Allegheny County's GIS data portal](http://openac.alcogis.opendata.arcgis.com/).
+*   This layer will be updated monthly using data harvested from [Allegheny County's GIS data portal](http://openac.alcogis.opendata.arcgis.com/).
 
 **QRM (QVCOG Reference Map)**
 *   A basemap comprised of:
@@ -25,7 +25,7 @@ permalink: /docs/datainfo/
 **PA One Call Ticket Mapper**
 *   PA OneCall has an e-mail based notiication system that will alert the user of "Call Before you Dig" requests in the user's area.
 *   The user must request approval from PA OneCall to get the e-mail notifications.
-*   This mapping system takes PA One Call e-mails from the subscriber's email and publishes them to a standard geodata web service so that tickets can be viewed on a web map.
+*   This mapping script takes PA One Call e-mails from the subscriber's email and publishes them to a standard geodata web service so that tickets can be viewed on a web map.
 
 ***
 
@@ -33,7 +33,7 @@ permalink: /docs/datainfo/
 
 *   Updated data will be shared to all municipalities by the QVCOG ArcGIS Organization Administrator via the QVCOG Group.
     -   See the _QVCOG ArcGIS Online Organization Structure_ page for a more detailed description of sharing.
-*   Municipalities will be notified via email that a new data set is available.
+*   Municipalities will be notified via e-mail that a new data set is available.
 
 **How to Navigate to the QVCOG Shared Data**
 
