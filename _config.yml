@@ -7,7 +7,7 @@ git_address: https://github.com/civicmapper/qvcog-docs
 git_edit_address: https://github.com/civicmapper/qvcog-docs/tree/master
 
 # paths
-baseurl: "/qvcog-docs/"
+baseurl: "/qvcog-docs"
 img_folder: "/qvcog-docs/img/"
 
 # common assets
