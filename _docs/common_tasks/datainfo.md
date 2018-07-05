@@ -2,11 +2,13 @@
 title: QVCOG Assets
 permalink: /docs/datainfo/
 ---
-**QVCOG Parcel Feature Class**
+## QVCOG Parcel Feature Class
+
 *   Layer is regularly updated using the **Allegheny County Parcel Boundaries** layer available as open source data from the Allegheny County Department of Real Estate.
 *   This layer will be updated monthly using data retrieved from [Allegheny County's GIS data portal](http://openac.alcogis.opendata.arcgis.com/).
 
-**QRM (QVCOG Reference Map)**
+## QRM (QVCOG Reference Map)
+
 *   A basemap comprised of:
     -   QVCOG parcel feature class with pop ups
     -   Live Parcel Links to county website
@@ -14,15 +16,18 @@ permalink: /docs/datainfo/
 *   Can be used to create customized municipality maps or to browse specific areas.
 *   See bottom of page for instructions on how to access and use the QRM
 
-**Three Rivers Wet Weather Sewer Map**
+## Three Rivers Wet Weather Sewer Atlas
+
 *   A map developed to include a traceable set of municipal sewer data.
 *   Data was delivered by individual municipalities to Three Rivers Wet Weather for editing and compilation.
-*   Primary function is sewer system visualization.  
+*   Primary function is sewer system visualization.
 
-**SPCAR (Systematic Property Condition Assessment Rating)**
+## SPCAR (Systematic Property Condition Assessment Rating)
+
 *   Property rating system specifically designed by and for QVCOG
 
-**1LINK**
+## 1LINK
+
 *   PA OneCall has an e-mail based notiication system that will alert the user of "Call Before you Dig" requests in the user's area.
 *   The user must request approval from PA OneCall to get the e-mail notifications.
 *   The 1LINK mapping script takes PA One Call e-mails from the subscriber's email and publishes them to a standard geodata web service so that tickets can be viewed on a web map.

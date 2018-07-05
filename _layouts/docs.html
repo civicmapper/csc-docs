@@ -11,11 +11,24 @@ layout: default
         <div class="col-md-8">
             <h1>{{ page.title }}</h1>
             <div id="markdown-content-container">{{ content }}</div>
-            <p class="text-center">
-              <br />
-              <a target="_blank" href="{{site.git_edit_address}}/{{ page.path }}" class="btn btn-default githubEditButton" role="button">
-                <i class="fa fa-pencil fa-lg"></i> Improve this page
-              </a>
+              <br /><br /><br />
+              <div class="row">
+                <div class="col-sm-6">
+                  <p class="text-center">
+                  <a target="_blank" href="mailto:{{site.email}}" class="btn btn-default btn-sm githubEditButton" role="button">
+                    <i class="fa fa-envelope"></i> Provide Feedback
+                  </a>
+                </p>
+                </div>
+                <div class="col-sm-6">
+                    <p class="text-center">
+                  <a target="_blank" href="{{site.git_edit_address}}/{{ page.path }}" class="btn btn-default btn-sm githubEditButton" role="button">
+                    <i class="fa fa-pencil"></i> Improve this page on GitHub
+                  </a>
+                  </p>
+                </div>
+              </div>
+
             </p>
             <hr>
             {% include section_nav.html %}
