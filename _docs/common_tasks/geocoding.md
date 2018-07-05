@@ -5,11 +5,14 @@ permalink: /docs/geocoding/
 
 # Setup
 
-To geocode locations in an excel table, it is necessary to install the [ArcGIS Excel Add In](https://doc.arcgis.com/en/maps-for-office/). The user must also have a **feature class** available in their ArcGIS Online account to which the data can be linked.
+To geocode locations in an excel table, it is necessary to install the [ArcGIS Excel Add In](https://doc.arcgis.com/en/maps-for-office/). Note that this product is not compatible with Mac operating systems. The user must also have a **feature class** available in their ArcGIS Online account to which the data can be linked.
 
 _BEFORE YOU START_
 
 Make sure that the two fields (columns) of data you will be linking are in the *same format*. Note the names of these fields.
+    -   To join the two fields, the values must match exactly.
+    -   The join will be case sensitive
+    -   For example 'G123' will not match with 'G_123'
 
 **Viewing an Attribute Table in ArcGIS Online**
 
@@ -45,14 +48,17 @@ First, select the **ArcGIS Maps** tab in Microsoft Excel and sign in to your Arc
 
 ![Demo of Excel to Parce Layer workflow]({{site.img_folder}}SelectingLocationType.gif)
 
+<br>
 -  Click on **Add Location Type** and then find the feature class containing the spatial data you want to use to geocode your table. This can be done by navigating to the ArcGIS Online folder containing the correct feature class or by using the search bar.
 
 ![Demo of Excel to Parce Layer workflow]({{site.img_folder}}SearchLocationTypeFeatureClass.gif)
 
+<br>
 -  Once the appropriate layer is selected, use the drop down menu to choose which layer of the feature class you are using as the location layer for geocoding. If the feature class contains only one layer, this step may not be necessary.
 
 ![Demo of Excel to Parce Layer workflow]({{site.img_folder}}ChooseGeocoderLayer.gif)
 
+<br>
 -  Choose the field you are using to link to your Excel table data. In this case, the **PIN** field in the feature class will link with the **Parcel Number Alternate** field in the table.
 
 ![Demo of Excel to Parce Layer workflow]({{site.img_folder}}ChooseGeocoderLinkAttribute.gif)
@@ -65,6 +71,7 @@ First, select the **ArcGIS Maps** tab in Microsoft Excel and sign in to your Arc
 
 ![Demo of Excel to Parce Layer workflow]({{site.img_folder}}LinkingColumnsSimpleSymbolize.gif)
 
+<br>
 -  Select **Add Data** and wait for the map to draw. Once the data is linked to the polygon layer, some display options like drawing scale and transparency are available to fine tune. Click OK once the layer is displayed in the way wanted.
 
 ![Demo of Excel to Parce Layer workflow]({{site.img_folder}}LayerAddedToMap.gif)
@@ -77,6 +84,7 @@ First, select the **ArcGIS Maps** tab in Microsoft Excel and sign in to your Arc
 
 ![Demo of Excel to Parce Layer workflow]({{site.img_folder}}SharingNewMap.gif)
 
+<br>
 -  To check that the layer was properly shared, log on to the ArcGIS Online website and navigate to ‘Content’. View the layer by clicking on it and then selecting ‘Open in Map Viewer’
 
 ![Demo of Excel to Parce Layer workflow]({{site.img_folder}}CheckSharingOnline.gif)

@@ -12,16 +12,19 @@ permalink: /docs/webappcreate/
 
 ![Demo of Excel to Parce Layer workflow]({{site.img_folder}}CreateNewWebApp.gif)
 
+<br>
 -  Click on **Create Web App**. 
     *   For beginners it is best to choose **Using a Template**.
     *   There are many Web App Templates to choose from. Browse and explore the options to find which is best suited to your needs.
 
 ![Demo of Excel to Parce Layer workflow]({{site.img_folder}}BrowseWebAppTemplates.gif)
 
+<br>
 -  Once you have made your selection, click on that template and select **CREATE WEB APP**.
 
 ![Demo of Excel to Parce Layer workflow]({{site.img_folder}}ChooseTemplate.gif)
 
+<br>
 -  Fill in the required fields. 
     *   It is good practice to include "WebApp" in the name of your new Web App to differentiate the content from the WebMap used to create it.
 
@@ -31,15 +34,18 @@ permalink: /docs/webappcreate/
 
 ![Demo of Excel to Parce Layer workflow]({{site.img_folder}}WebAppFields.gif)
 
+<br>
 -   Clicking **Launch** opens a new tab showing what the resulting App will look like. 
     *   If anything is incorrect or incomplete, simply close the App display tab and edit the relevant fields.
 
 ![Demo of Excel to Parce Layer workflow]({{site.img_folder}}PreviewWebApp.gif)
 
+<br>
 -   Once the app is finished, click **Save** to create a shareable Web App that will be available in your **Content**.
 
 ![Demo of Excel to Parce Layer workflow]({{site.img_folder}}SaveWebAppNewName.gif)
 
+<br>
 -   Share the Web App so that the public or other groups and organizations can view your content.
 
 ![Demo of Excel to Parce Layer workflow]({{site.img_folder}}ShareWebApp.gif)

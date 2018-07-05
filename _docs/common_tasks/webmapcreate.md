@@ -20,6 +20,7 @@ There are several ways to create a Web Map using ArcGIS Online. One easy way is 
 
 ![Demo of Excel to Parce Layer workflow]({{site.img_folder}}AddMyContent.gif)
 
+<br>
 -  Click on the little plus sign in the bottom right hand corner to add a layer to your map, or click on the feature class to view more information about it.
 
 ![Demo of Excel to Parce Layer workflow]({{site.img_folder}}AddMyContentToWebMap.gif)
@@ -44,6 +45,7 @@ There are several ways to create a Web Map using ArcGIS Online. One easy way is 
 
 ![Demo of Excel to Parce Layer workflow]({{site.img_folder}}SimpleSymbolization.gif)
 
+<br>
 -  Before symbolizing a layer by attribute, it is useful to view the attribute table itself.
     1.  navigate to the **Content** page.
     2.  Navigate to the relevant feature class.
@@ -52,6 +54,7 @@ There are several ways to create a Web Map using ArcGIS Online. One easy way is 
 
 ![Demo of Excel to Parce Layer workflow]({{site.img_folder}}ComparingPINFields.gif)
 
+<br>
 -   As an example, it could be useful to symbolize parcels by the attribute **Property Type**
     1.  Click on the **Change Style** tool.
     2.  Click on the **Choose an attribute to show** drop down menu and choose the appropriate attribute.
@@ -75,6 +78,7 @@ Descriptions of each analysis tool as well as how-to guides from ESRI are availa
 
 ![Demo of Excel to Parce Layer workflow]({{site.img_folder}}SaveWebMap.gif)
 
+<br>
 -   The Web Map will now be available in **Content**.
 
 -   To share your map click the **Share** button in the top menu bar.

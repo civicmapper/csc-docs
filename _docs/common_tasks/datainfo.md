@@ -4,7 +4,7 @@ permalink: /docs/datainfo/
 ---
 **QVCOG Parcel Feature Class**
 *   Layer is regularly updated using the **Allegheny County Parcel Boundaries** layer available as open source data from the Allegheny County Department of Real Estate.
-*   This layer will be updated monthly using data harvested from [Allegheny County's GIS data portal](http://openac.alcogis.opendata.arcgis.com/).
+*   This layer will be updated monthly using data retrieved from [Allegheny County's GIS data portal](http://openac.alcogis.opendata.arcgis.com/).
 
 **QRM (QVCOG Reference Map)**
 *   A basemap comprised of:
@@ -41,6 +41,7 @@ permalink: /docs/datainfo/
 *	In either **My Groups** or **My Organization’s Groups** scroll to or search for **QVCOG** and click on it.
 
 ![Demo of Excel to Parce Layer workflow]({{site.img_folder}}FindQVCOGGroup2.gif)
+<br>
 
 *	Scroll through the group’s content or search for specific content to access available data.
 
@@ -55,24 +56,29 @@ permalink: /docs/datainfo/
 
 ![Demo of Excel to Parce Layer workflow]({{site.img_folder}}FindQVCOGGroup.gif)
 
+<br>
 *	Scroll to or search for the **QVCOG Reference Map** and click on it.
 *	Click **Open in Map Viewer**
 
 ![Demo of Excel to Parce Layer workflow]({{site.img_folder}}SelectQRM.gif)
 
+<br>
 *	Use the **Table of Contents** in the window on the left to toggle layers on and off.
 
 ![Demo of Excel to Parce Layer workflow]({{site.img_folder}}LayerToggle.gif)
 
+<br>
 *	Zoom in using a mouse scroll wheel or the plus and minus buttons in the top left corner of the map to make additional layers visible according to their display range.
 
 ![Demo of Excel to Parce Layer workflow]({{site.img_folder}}ZoomforParcels.gif)
 
+<br>
 *	Click on a parcel to open its popup.
 *	Click on the **Live Parcel Link** to open a new tab to that parcel’s location on the county website.
 
 ![Demo of Excel to Parce Layer workflow]({{site.img_folder}}ParcelPopUp.gif)
 
+<br>
 *	To customize the QRM for individual use, add or edit layers and save as a new map by clicking the save icon in the top menu bar. 
 *	When saving, change the map’s name and save folder (group) to reflect the updated purpose.
 *	Use tags for easier searchability.
