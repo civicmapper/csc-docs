@@ -1,21 +1,21 @@
 # Site settings
-title: QVCOG GIS Docs
+title: CSC GIS Docs
 email: info@civicmapper.com
-description: Documentation for Quaker Valley Council of Governments web GIS resources and workflows.
-url: https://civicmapper.github.io/qvcog-docs # the base hostname & protocol for your site
-git_address: https://github.com/civicmapper/qvcog-docs
-git_edit_address: https://github.com/civicmapper/qvcog-docs/tree/master
+description: Documentation for Carnegie Science Center web GIS resources and workflows
+url: https://civicmapper.github.io/csc-docs # the base hostname & protocol for your site
+git_address: https://github.com/civicmapper/csc-docs
+git_edit_address: https://github.com/civicmapper/csc-docs/tree/master
 
 # paths
-baseurl: "/qvcog-docs"
-img_folder: "/qvcog-docs/img/"
+baseurl: "/csc-docs"
+img_folder: "/csc-docs/img/"
 
 # common assets
-client_logo_nav: qvcog-logo.jpeg
+client_logo_nav: csc-logo.jpeg
 
 # theme options from https://bootswatch.com/
 # comment out this to use default Bootstrap
-bootwatch: paper
+bootwatch: spacelab
 
 # Build settings
 markdown: kramdown
