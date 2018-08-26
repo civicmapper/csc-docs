@@ -1,9 +1,9 @@
 ---
-title: How to Use the CSC Dashboard
-permalink: /docs/dashboard/
+title: How to Use the CSC Zip Code Summarizer Dashboard
+permalink: /docs/zipdash/
 ---
 
-The AGOL CSC dashboard was created to show all Carnegie Science Center programs summarized by zipcode. This user document will describe how to use the dashboard functions.
+The AGOL CSC Summarizer Dashboard was created to show all Carnegie Science Center programs summarized by zipcode. This user document will describe how to use the dashboard functions.
 
 See the bottom of this page for a video of an example user experience.
 
