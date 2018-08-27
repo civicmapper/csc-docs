@@ -56,6 +56,74 @@ This map displays FCC and PRSEF progam data at the school level and summarizes s
 * FCC Team Roster data was edited to contain one record per school with fields containing pertinent data
 * School location data was verified
 
+## CSC_TYF_FL_TEA_Map
+
+**Layers**
+* Fab Lab and TEA by Zip
+* TYF by Zip
+
+**Description**
+
+This map displays Fab Land and TEA participant count per zip code and TYF participant count by zip code. 
+
+**Source Spreadsheets**
+* 16 Sept - 17 June CSC STEM Programs Summary - SiriusWare
+
+**Necessary Edits**
+* Delete  empty  rows  or  rows  without  ZIP  data
+* Make  sure  ZIP  codes  are  stored  as  number 
+
+## CSC STEM Program Map
+
+**Layers**
+* Median Household Income (Living Atlas Public)
+* CSC STEM - Fab Lab and TEA by Zip
+* CSC STEM - TYF by Zip
+* FY18_FNS_CACFP_SFSP_Eligibility (USDA)
+* School District Boundaries (PennDOT)
+* School District Boundaries (Allegheny County)
+* Municipal Boundaries(Allegheny County)
+* 2017 USA Education Spending (Living Atlas Premium)
+
+**Description**
+
+This map overlays CSC Fab Lab and TEA by Zip and TYF by Zip layers on relevant background layers, allowing the user to develop an idea about participant school socioeconomic conditions.
+
+**Source Spreadsheets**
+* 16 Sept - 17 June CSC STEM Programs Summary - SiriusWare
+
+## CSC_CRCC_Map
+
+**Layers**
+* CSC_CRCC_Geocode
+* CSC_CRCC_ByZip
+
+**Description**
+
+This map displays CRCC participants by school location and zip code. Rings show location of participating schools, with radius indicating number of participants. Zip codes are shaded according to total number of student participants.
+
+**Source Spreadsheets**
+* 2016-17 CRCC School Data
+
+**Necessary Edits**
+* Simplify  Field  Names  by  removing  punctuation  and  spaces  and  shortening  
+* Store  Zipcodes  as  Number  
+* Verify  addresses  are  correct 
+
+## CRCC_WebMap
+
+**Layers**
+* 2016 - 2017 CRCC School Locations
+* Number of Students participating in CRCC per Zip Code
+* Zip Code Area
+
+**Description**
+
+This map displays CRCC program participation by school location and zip code.
+
+**Source Spreadsheets**
+* 2016-17 CRCC School Data
+
 ## CSCProgramsByZip
 
 **Layers**
@@ -99,71 +167,3 @@ The map also contains layers displaying the sum of participants for each program
 
 **Necessary Edits**
 * All data simplified to contain participant number and zip code
-
-## CSC_TYF_FL_TEA_Map
-
-**Layers**
-* Fab Lab and TEA by Zip
-* TYF by Zip
-
-**Description**
-
-This map displays Fab Land and TEA participant count per zip code and TYF participant count by zip code. 
-
-**Source Spreadsheets**
-* 16 Sept - 17 June CSC STEM Programs Summary - SiriusWare
-
-**Necessary Edits**
-* Delete  empty  rows  or  rows  without  ZIP  data
-* Make  sure  ZIP  codes  are  stored  as  number 
-
-## CSC_CRCC_Map
-
-**Layers**
-* CSC_CRCC_Geocode
-* CSC_CRCC_ByZip
-
-**Description**
-
-This map displays CRCC participants by school location and zip code. Rings show location of participating schools, with radius indicating number of participants. Zip codes are shaded according to total number of student participants.
-
-**Source Spreadsheets**
-* 2016-17 CRCC School Data
-
-**Necessary Edits**
-* Simplify  Field  Names  by  removing  punctuation  and  spaces  and  shortening  
-* Store  Zipcodes  as  Number  
-* Verify  addresses  are  correct 
-
-## CSC STEM Program Map
-
-**Layers**
-* Median Household Income (Living Atlas Public)
-* CSC STEM - Fab Lab and TEA by Zip
-* CSC STEM - TYF by Zip
-* FY18_FNS_CACFP_SFSP_Eligibility (USDA)
-* School District Boundaries (PennDOT)
-* School District Boundaries (Allegheny County)
-* Municipal Boundaries(Allegheny County)
-* 2017 USA Education Spending (Living Atlas Premium)
-
-**Description**
-
-This map overlays CSC Fab Lab and TEA by Zip and TYF by Zip layers on relevant background layers, allowing the user to develop an idea about participant school socioeconomic conditions.
-
-**Source Spreadsheets**
-* 16 Sept - 17 June CSC STEM Programs Summary - SiriusWare
-
-## CRCC_WebMap
-
-**Layers**
-* 2016 - 2017 CRCC School Locations
-* Number of Students participating in CRCC per Zip Code
-* Zip Code Area
-
-**Description**
-
-This map displays CRCC program participation by school location and zip code.
-
-**Source Spreadsheets**
-* 2016-17 CRCC School Data

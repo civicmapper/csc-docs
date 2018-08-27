@@ -39,3 +39,5 @@ Geospatial data is displayed in the map panel. Widgets in the upper right hand c
 * and choose alternative base maps. 
 
 Zoom buttons are located in the lower right hand corner, but a mouse wheel can also be used. Zoom in and out and pan the map to filter the List Panel and the total participant count.
+
+![Demo of Excel to Parce Layer workflow]({{site.img_folder}}ProgramDashboardHowTo.gif)
