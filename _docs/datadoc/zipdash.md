@@ -36,6 +36,9 @@ When panning and zooming in the map frame, listed zip codes in the **CSC Zip Lis
 
 ## Map Panel
 
+### Video Showing how to Use Elements of the Map Panel
+![Demo of Excel to Parce Layer workflow]({{site.img_folder}}ZipDashMapWidget.gif)
+
 Geospatial data is displayed in the map panel. Widgets in the upper right hand corner of the panel allow the user to:
 * search for a location, 
 * toggle the legend, 

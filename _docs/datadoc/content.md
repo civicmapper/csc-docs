@@ -9,6 +9,8 @@ Civic Mapper curated data and developed ArcGIS Online products for Carnegie Scie
 
 ## STEMSTARSMapper
 
+[Link to Map](http://carnegiemnh.maps.arcgis.com/home/item.html?id=aca95df1835043b08d99ff001ea3243c)
+
 **Layers**
 * STEMSTARS Student Count Jan-April
 * STEMSTARS Student Count Oct-Dec
@@ -34,6 +36,8 @@ This map displays data pertaining to the STEM STARS program. Layers include scho
 
 ## FCC Team and School Data Map
 
+[Link to Map](http://carnegiemnh.maps.arcgis.com/home/item.html?id=c25a62ccf61346b29e849030fb13d656)
+
 **Layers**
 * FCC Team Roster Data
 * School Data 2017 - Locations
@@ -58,6 +62,8 @@ This map displays FCC and PRSEF progam data at the school level and summarizes s
 
 ## CSC_TYF_FL_TEA_Map
 
+[Link to Map](http://carnegiemnh.maps.arcgis.com/home/item.html?id=2d774ab0546548d5b252eea6533fee8b)
+
 **Layers**
 * Fab Lab and TEA by Zip
 * TYF by Zip
@@ -74,6 +80,8 @@ This map displays Fab Land and TEA participant count per zip code and TYF partic
 * Make  sure  ZIP  codes  are  stored  as  number 
 
 ## CSC STEM Program Map
+
+[Link to Map](http://carnegiemnh.maps.arcgis.com/home/item.html?id=29118fd344ef418aa412612f99bd9abc)
 
 **Layers**
 * Median Household Income (Living Atlas Public)
@@ -94,6 +102,8 @@ This map overlays CSC Fab Lab and TEA by Zip and TYF by Zip layers on relevant b
 
 ## CSC_CRCC_Map
 
+[Link to Map](http://carnegiemnh.maps.arcgis.com/home/item.html?id=e48ac73bd008407bb0e183e4636b3931)
+
 **Layers**
 * CSC_CRCC_Geocode
 * CSC_CRCC_ByZip
@@ -112,6 +122,8 @@ This map displays CRCC participants by school location and zip code. Rings show 
 
 ## CRCC_WebMap
 
+[Link to Map](http://carnegiemnh.maps.arcgis.com/home/item.html?id=5180f77fb9274126b94db00c378c107f)
+
 **Layers**
 * 2016 - 2017 CRCC School Locations
 * Number of Students participating in CRCC per Zip Code
@@ -125,6 +137,8 @@ This map displays CRCC program participation by school location and zip code.
 * 2016-17 CRCC School Data
 
 ## CSCProgramsByZip
+
+[Link to Map](http://carnegiemnh.maps.arcgis.com/home/item.html?id=eaccc5637aad4fc1aed4d3029f66e2d9)
 
 **Layers**
 * CRCC Schools Student Numbers
