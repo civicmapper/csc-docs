@@ -3,6 +3,8 @@ title: How to Use the CSC Zip Code Summarizer Dashboard
 permalink: /docs/zipdash/
 ---
 
+[Link to Dashboard](http://carnegiemnh.maps.arcgis.com/home/item.html?id=70fb7eae9d5345a3ad64fe854f91050d)
+
 The AGOL CSC Summarizer Dashboard was created to show all Carnegie Science Center programs summarized by zipcode. This user document will describe how to use the dashboard functions.
 
 See the bottom of this page for a video of an example user experience.
