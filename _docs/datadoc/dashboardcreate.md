@@ -23,7 +23,7 @@ Elements can be customized to interact with map data and with one another. When 
 
 Elements interact with one another via **actions**. Once you have added some elements to your Dashboard, define their interactions by using the **action** tab in other elements. 
 * One example is to filter data in the other elements when the map extent changes. That way the dashboard will only be displaying data relevant to the map extent. 
-* Anonther example is to pan, zoom, or flash in the map element when a list element is selected.
+* Another example is to pan, zoom, or flash in the map element when a list element is selected.
 
 Tip: Name elements with uniquely and specifically so that when you are designating actions you are not confused about which element to select.
 
