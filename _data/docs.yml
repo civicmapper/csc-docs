@@ -3,4 +3,11 @@
   - zipdash
   - programdash
   - content
+
+- title: Common Tasks
+  docs:
   - background
+  - geocoding
+  - webmapcreate
+  - webappcreate
+  - dashboardcreate
