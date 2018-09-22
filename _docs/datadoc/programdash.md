@@ -3,7 +3,7 @@ title: How to Use the CSC Program Summary Dashboard
 permalink: /docs/programdash/
 ---
 
-[Link to Dashboard](http://carnegiemnh.maps.arcgis.com/home/item.html?id=a291df90e129489a86708ed99345e81a)
+[Link to Dashboard](http://carnegiemnh.maps.arcgis.com/home/item.html?id=717fd7c93e5d4de5b769084ae2849b7d)
 
 The AGOL CSC Program Summary dashboard was created to show all Carnegie Science Center programs summarized by year and by program. This user document will describe how to use the dashboard functions.
 

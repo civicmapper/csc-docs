@@ -9,7 +9,7 @@ Civic Mapper curated data and developed ArcGIS Online products for Carnegie Scie
 
 ## STEMSTARSMapper
 
-[Link to Map](http://carnegiemnh.maps.arcgis.com/home/item.html?id=aca95df1835043b08d99ff001ea3243c)
+[Link to Map](http://carnegiemnh.maps.arcgis.com/home/item.html?id=1d5052c180f54a048ec7b5a239a7c6aa)
 
 **Layers**
 * STEMSTARS Student Count Jan-April
@@ -36,7 +36,7 @@ This map displays data pertaining to the STEM STARS program. Layers include scho
 
 ## FCC Team and School Data Map
 
-[Link to Map](http://carnegiemnh.maps.arcgis.com/home/item.html?id=c25a62ccf61346b29e849030fb13d656)
+[Link to Map](http://carnegiemnh.maps.arcgis.com/home/item.html?id=3f3ef2fd615b4527b04910be5a13190b)
 
 **Layers**
 * FCC Team Roster Data
@@ -62,7 +62,7 @@ This map displays FCC and PRSEF progam data at the school level and summarizes s
 
 ## CSC_TYF_FL_TEA_Map
 
-[Link to Map](http://carnegiemnh.maps.arcgis.com/home/item.html?id=2d774ab0546548d5b252eea6533fee8b)
+[Link to Map](http://carnegiemnh.maps.arcgis.com/home/item.html?id=0dc2f5102bcc4293a8172abb5a5a6146)
 
 **Layers**
 * Fab Lab and TEA by Zip
@@ -81,7 +81,7 @@ This map displays Fab Land and TEA participant count per zip code and TYF partic
 
 ## CSC STEM Program Map
 
-[Link to Map](http://carnegiemnh.maps.arcgis.com/home/item.html?id=29118fd344ef418aa412612f99bd9abc)
+[Link to Map](http://carnegiemnh.maps.arcgis.com/home/item.html?id=11ffc33bd8b741e1a8970bf927bd0920)
 
 **Layers**
 * Median Household Income (Living Atlas Public)
@@ -102,7 +102,7 @@ This map overlays CSC Fab Lab and TEA by Zip and TYF by Zip layers on relevant b
 
 ## CSC_CRCC_Map
 
-[Link to Map](http://carnegiemnh.maps.arcgis.com/home/item.html?id=e48ac73bd008407bb0e183e4636b3931)
+[Link to Map](http://carnegiemnh.maps.arcgis.com/home/item.html?id=2583797c47e04c4a9505fc728f81a575)
 
 **Layers**
 * CSC_CRCC_Geocode
@@ -138,7 +138,7 @@ This map displays CRCC program participation by school location and zip code.
 
 ## CSCProgramsByZip
 
-[Link to Map](http://carnegiemnh.maps.arcgis.com/home/item.html?id=eaccc5637aad4fc1aed4d3029f66e2d9)
+[Link to Map](http://carnegiemnh.maps.arcgis.com/home/item.html?id=19fbde9183a242d1a13fa40055331398)
 
 **Layers**
 * CRCC Schools Student Numbers
